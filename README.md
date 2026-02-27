@@ -31,7 +31,8 @@ Tech Stack (Learning)
 4. Python 
 5. Node.js
 6. Ruby
-7. Git & GitHub
+
+Git & GitHub
 
 ----
 
