@@ -33,7 +33,7 @@ Tech Stack (Learning)
 6. Ruby
 7. Git & GitHub
 
----
+----
 
 ## 🎯 2026 Goals
 
