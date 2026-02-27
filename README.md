@@ -16,14 +16,17 @@ Passionate about clean code and continuous improvement.
 ## 🛠️ Tech Stack
 
 Tech Stack
-
+##(Front-end)
 1. HTML
 2. CSS
 3. JavaScript (Learning)
   -React
   -Angular
   -Vue
-4. Python (Backend Development)
+##(Backend Development)
+4. Python 
+5. Node.js
+6. Ruby
 
 Git & GitHub
 
@@ -33,7 +36,7 @@ Git & GitHub
 
 - Build strong JavaScript fundamentals
 - Complete 5+ real-world projects
-- Grow as a full-stack developer
+- Grow as a full-stack developer & transition to role of "Junior full-stack developer"
 
 ---
 
