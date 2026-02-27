@@ -26,7 +26,7 @@ Tech Stack
   -Angular
   -Vue
 
-(Backend Development)
+(Back-end Development)
 
 4. Python 
 5. Node.js
