@@ -16,14 +16,16 @@ Passionate about clean code and continuous improvement.
 ## 🛠️ Tech Stack
 
 Tech Stack
-##(Front-end)
+
+(Front-end)
 1. HTML
 2. CSS
 3. JavaScript (Learning)
   -React
   -Angular
   -Vue
-##(Backend Development)
+
+(Backend Development)
 4. Python 
 5. Node.js
 6. Ruby
