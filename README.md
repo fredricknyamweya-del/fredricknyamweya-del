@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Fredrick Nyamweya 👋
 
-<!--
-**fredricknyamweya-del/fredricknyamweya-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer in Training  
+📍 Nairobi, Kenya  
+🚀 Currently learning Full-Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am currently building my skills in web development and version control.
+Passionate about clean code and continuous improvement.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript (learning)
+- Git & GitHub
+
+---
+
+## 🎯 2026 Goals
+
+- Build strong JavaScript fundamentals
+- Complete 5+ real-world projects
+- Grow as a full-stack developer
+
+---
+
+## 📌 Projects
+
+Projects coming soon 🚀
