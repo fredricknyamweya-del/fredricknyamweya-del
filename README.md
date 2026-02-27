@@ -21,10 +21,12 @@ Tech Stack (Learning)
 
 1. HTML
 2. CSS
-3. JavaScript 
-  -React
-  -Angular
-  -Vue
+3. JavaScript
+    -React
+
+    -Angular
+
+    -Vue
 
 (Back-end Development)
 
