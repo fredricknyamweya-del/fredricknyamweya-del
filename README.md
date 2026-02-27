@@ -15,10 +15,19 @@ Passionate about clean code and continuous improvement.
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript (learning)
-- Git & GitHub
+Tech Stack
+
+1. HTML
+2. CSS
+3. JavaScript (Learning)
+
+  -React
+  -Angular
+  -Vue
+
+4. Python (Backend Development)
+
+Git & GitHub
 
 ---
 
