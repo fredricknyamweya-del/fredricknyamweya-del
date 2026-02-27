@@ -24,9 +24,7 @@ Tech Stack (Learning)
 3. JavaScript
     
     -React
-
     -Angular
-
     -Vue
 
 (Back-end Development)
