@@ -40,7 +40,7 @@ Git & GitHub
 
 - Build strong JavaScript fundamentals
 - Complete 5+ real-world projects
-- Grow as a full-stack developer & smoothly transition to the role of "Junior full-stack developer"
+- Grow as a full-stack developer & smoothly transition to the role of "Junior full-stack software developer"
 
 ---
 
