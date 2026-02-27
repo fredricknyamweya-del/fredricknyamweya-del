@@ -1,7 +1,7 @@
 # Hi, I'm Fredrick Nyamweya 👋
 
 💻 Software Developer in Training  
-📍 Nairobi, Kenya  
+📍 Kenya  
 🚀 Currently learning Full-Stack Development  
 
 ---
