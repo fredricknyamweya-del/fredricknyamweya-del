@@ -36,6 +36,9 @@ Tech Stack (Learning)
 Git & GitHub
 
 ----
+## Quick introduction about myself:
+Hi! I'm Fredrick Nyamweya, in the Software Engineering track as a full-time entry-level student. I'm currently focused on building strong foundations in programming, Git, and web development while working on projects like recreating the Netflix interface. My goal in the next 6–12 months is to become confident in full-stack development and build several strong portfolio projects that can help me land my first junior developer role.
+
 
 ## 🎯 2026 Goals
 
