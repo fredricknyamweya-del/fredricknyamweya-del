@@ -2,7 +2,7 @@
 
 💻 Software Developer in Training  
 📍 Kenya  
-🚀 Currently learning Full-Stack Development  
+🚀 Currently learning Software Engineering as a Full-Stack Developer  
 
 ---
 
