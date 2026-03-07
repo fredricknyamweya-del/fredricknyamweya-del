@@ -38,7 +38,7 @@ My goal in the next 6–12 months is to become confident in full-stack developme
 
 - Build strong JavaScript fundamentals
 - Complete 3+ real-world projects.
-- Grow as a full-stack developer & smoothly transition to the role of "Junior full-stack software developer."
+- Grow as a full-stack developer & smoothly transition to the role of Junior Full-Stack Developer.
 
 ---
 
