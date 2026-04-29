@@ -16,17 +16,16 @@ Passionate about clean code and continuous improvement.
 ## 🛠️ Tech Stack
 Front-endLanguages: 
 1. HTML5, CSS3, JavaScript (ES6+)
-2. Frameworks/Libraries: React, Angular, Vue
+2. Frameworks/Libraries: React.
 
 Back-end Languages & Runtimes:
 1. Python
 2. Node.js
-3. Ruby
+3. Flask
 
 ## ⚙️ DevOps & Tools
 Version Control: Git
 Hosting & Collaboration: GitHub
-
 
 ----
 ## Quick introduction about myself:
