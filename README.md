@@ -61,7 +61,7 @@ A full-stack fleet remittance and vehicle management platform — built React + 
 - 🎯 Land my first role as a Junior Full-Stack Developer
 - 🏗️ Ship more production-quality full-stack projects
 - 📈 Go deeper on React/Next.js and Flask/PostgreSQL
-- 🤝 Contribute to team and open-source projects
+- 🤝🏽 Contribute to team and open-source projects
 
 ---
 
