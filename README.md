@@ -1,7 +1,7 @@
 # Hey, I'm Fredrick Nyamweya 👋🏽
 ### Full-Stack Developer | Turning Ideas Into Deployed Products 🚀
 
-📍 Kenya · 🎓 Software Engineering Bootcamp Moringa School Graduate · 💡 Builder at heart
+📍 Kenya · 🎓 Software Engineering Graduate, Moringa School · 💡 Builder at heart
 
 ---
 
